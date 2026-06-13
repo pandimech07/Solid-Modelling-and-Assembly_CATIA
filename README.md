@@ -1,4 +1,4 @@
-<img width="1600" height="899" alt="output" src="https://github.com/user-attachments/assets/2c4cef11-41e1-4c6a-a070-2a48c18c1ba6" /># Design a compact consumer product by creating a detailed 3D solid model that balances strength, weight, and aesthetics; then develop a complete assembly with proper constraints and clearances to ensure functional fit; perform simulations to evaluate structural integrity and durability under real-world operating conditions; finally, prepare the model for prototyping using suitable manufacturing methods and document the entire process and improvements for presentation.
+# Design a compact consumer product by creating a detailed 3D solid model that balances strength, weight, and aesthetics; then develop a complete assembly with proper constraints and clearances to ensure functional fit; perform simulations to evaluate structural integrity and durability under real-world operating conditions; finally, prepare the model for prototyping using suitable manufacturing methods and document the entire process and improvements for presentation.
 Screw Spindle Design, Modeling and Simulation
 
 ## Pandikumar S (212223080036)
